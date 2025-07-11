@@ -1,8 +1,8 @@
 'use client'
-import Contact from '@/components/navigation/Contact'
-import { PrivatePolicy } from '@/components/ui/PrivatePolicy'
-import { PPolicy } from '@/components/ui/PPolicy'
-import { RefundPolicy } from '@/components/ui/RefundPolicy'
+import Contact from '@/components/Contact'
+import { PrivatePolicy } from '@/components/PrivatePolicy'
+import { PPolicy } from '@/components/PPolicy'
+import { RefundPolicy } from '@/components/RefundPolicy'
 
 function Policy() {
   return (

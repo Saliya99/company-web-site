@@ -1,10 +1,10 @@
 import React from 'react'
 
-import DigitalDev from '@/components/ui/DigitalDev'
-import { DigitalSer } from '@/components/ui/DigitalSer'
-import { DigitalAbout } from '@/components/ui/DigitalAbout'
-import Contact from '@/components/navigation/Contact'
-import CarouselSlider from '@/components/ui/CarouselSlider'
+import DigitalDev from '@/components/DigitalDev'
+import { DigitalSer } from '@/components/DigitalSer'
+import { DigitalAbout } from '@/components/DigitalAbout'
+import Contact from '@/components/Contact'
+import CarouselSlider from '@/components/CarouselSlider'
 
 function DigitalMarketing() {
   return (

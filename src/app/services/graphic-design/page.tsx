@@ -1,9 +1,9 @@
 import React from 'react'
 
-import GraphicDesignHeader from '@/components/ui/GraphicDesignHeader'
-import GSlider from '@/components/ui/GSlider'
-import TailBlocks from '@/components/ui/TailBlocks'
-import Contact from '@/components/navigation/Contact'
+import GraphicDesignHeader from '@/components/GraphicDesignHeader'
+import GSlider from '@/components/GSlider'
+import TailBlocks from '@/components/TailBlocks'
+import Contact from '@/components/Contact'
 
 function GraphicDesign() {
   return (

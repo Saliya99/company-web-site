@@ -1,9 +1,9 @@
 import React from 'react'
-import { SmartRetailer } from '@/components/ui/SmartRetailer'
-import { Smart } from '@/components/ui/Smart'
-import SmartFooter from '@/components/ui/SmartFooter'
-import Contact from '@/components/navigation/Contact'
-import SmartSalesmanPricing1 from '@/components/ui/SmartSalesmanPricing1'
+import { SmartRetailer } from '@/components/SmartRetailer'
+import { Smart } from '@/components/Smart'
+import SmartFooter from '@/components/SmartFooter'
+// import Contact from '@/components/Contact'
+import SmartSalesmanPricing1 from '@/components/SmartSalesmanPricing1'
 
 function SmartPage() {
   return (
@@ -12,7 +12,7 @@ function SmartPage() {
       <Smart />
       <SmartFooter />
       <SmartSalesmanPricing1 />
-      <Contact />
+      {/* <Contact /> */}
     </div>
   )
 }

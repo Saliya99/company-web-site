@@ -1,11 +1,12 @@
 import React from 'react'
-import SmartSalesmanContent from '@/components/ui/SmartSalesmanContent'
-import SmartSalesmanPricing2 from '@/components/ui/SmartSalesmanPricing2'
-import SmartSalesmanFeatures from '@/components/ui/SmartSalesmanFeatures'
-import SmartSalesmanCta from '@/components/ui/SmartSalesmanCta'
-import SmartSalesmanIntro from '@/components/ui/SmartSalesmanIntro'
-import { SmartSalesmanSystem } from '@/components/ui/SmartSalesmanSystem'
-import Contact from '@/components/navigation/Contact'
+import SmartSalesmanContent from '@/components/SmartSalesmanContent'
+import SmartSalesmanPricing2 from '@/components/SmartSalesmanPricing2'
+import SmartSalesmanFeatures from '@/components/SmartSalesmanFeatures'
+import SmartSalesmanCta from '@/components/SmartSalesmanCta'
+import SmartSalesmanIntro from '@/components/SmartSalesmanIntro'
+import { SmartSalesmanSystem } from '@/components/SmartSalesmanSystem'
+// import Contact from '@/components/Contact'
+
 
 function SmartSalesman() {
   return (
@@ -16,7 +17,7 @@ function SmartSalesman() {
       <SmartSalesmanFeatures />
       <SmartSalesmanCta />
       <SmartSalesmanPricing2 />
-      <Contact />
+      {/* <Contact /> */}
     </div>
   )
 }

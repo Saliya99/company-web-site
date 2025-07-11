@@ -1,6 +1,6 @@
 import React from 'react'
-import { TermsAndConditions } from '@/components/ui/Terms'
-import Contact from '@/components/navigation/Contact'
+import { TermsAndConditions } from '@/components/Terms'
+import Contact from '@/components/Contact'
 
 function Teams() {
   return (

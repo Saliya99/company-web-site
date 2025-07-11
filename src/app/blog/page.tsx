@@ -1,6 +1,6 @@
 'use client'
-import BlogIntro from '@/components/ui/BlogIntro'
-import MoreBlogs from '@/components/ui/MoreBlogs'
+import BlogIntro from '@/components/BlogIntro'
+import MoreBlogs from '@/components/MoreBlogs'
 
 function blog() {
   return (
