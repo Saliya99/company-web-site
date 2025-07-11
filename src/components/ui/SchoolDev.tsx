@@ -1,6 +1,6 @@
 import React from 'react'
 import Image from 'next/image'
-import DS from '../images/DS.webp'
+import DS from '@/assets/images/DS.webp'
 
 export const SchoolDev = () => {
   return (

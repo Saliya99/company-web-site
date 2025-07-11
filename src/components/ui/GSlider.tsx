@@ -1,6 +1,6 @@
 import React from 'react'
 
-import Photoshop from '../images/Photoshop.webp'
+import Photoshop from '@/assets/images/Photoshop.webp'
 import Ai from '@/assets/images/Ai.webp'
 import figma from '@/assets/images/figma.webp'
 import Coreldraw from '@/assets/images/Coreldraw.webp'

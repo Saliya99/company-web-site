@@ -2,10 +2,10 @@
 
 import React, { useState, useEffect } from 'react'
 import Image from 'next/image'
-import n1 from '../images/n1.webp'
-import n2 from '../images/n2.webp'
-import n3 from '../images/n3.webp'
-import n4 from '../images/n4.webp'
+import n1 from '@/assets/images/n1.webp'
+import n2 from '@/assets/images/n2.webp'
+import n3 from '@/assets/images/n3.webp'
+import n4 from '@/assets/images/n4.webp'
 
 const DigitalDev: React.FC = () => {
   const slides = [

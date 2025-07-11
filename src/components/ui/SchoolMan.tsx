@@ -1,9 +1,9 @@
 import React from 'react'
 import Image from 'next/image'
-import n1 from '../images/admin.webp'
-import n2 from '../images/teacher.webp'
-import n3 from '../images/Student.webp'
-import n4 from '../images/Parents.webp'
+import n1 from '@/assets/images/admin.webp'
+import n2 from '@/assets/images/teacher.webp'
+import n3 from '@/assets/images/Student.webp'
+import n4 from '@/assets/images/Parents.webp'
 
 export const SchoolMan = () => {
   return (
