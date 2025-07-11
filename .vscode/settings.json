@@ -1,0 +1,12 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "files.autoSave": "onFocusChange",
+  "js/ts.implicitProjectConfig.checkJs": true,
+  "editor.formatOnSave": true,
+  "workbench.editor.showTabs": "single",
+  "editor.codeActionsOnSave": {
+    "source.addMissingImports": "always",
+    "source.fixAll.eslint": "always"
+  },
+  "cSpell.words": ["Amazoft", "headlessui", "turbopack"]
+}
